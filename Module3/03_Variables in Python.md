@@ -272,7 +272,7 @@ So when we initialize multiple variables with the same value, Python can optimiz
 Now it’s your turn:
 
 * Try all these examples on your machine
-* Don’t just watch—type them
+* Don’t just READ them
 * Get comfortable with variable creation and printing
 
 This practice will make the next topics much easier.
