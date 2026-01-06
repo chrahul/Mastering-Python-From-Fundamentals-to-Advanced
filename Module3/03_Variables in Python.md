@@ -199,6 +199,8 @@ This is very useful when values are related, like:
 ---
 
 ### 7. Assigning the Same Value to Multiple Variables
+<img width="2304" height="1728" alt="image" src="https://github.com/user-attachments/assets/b04c5aca-83f0-4a37-bb5b-c385585f47d7" />
+
 
 You can also initialize multiple variables with the same value:
 
