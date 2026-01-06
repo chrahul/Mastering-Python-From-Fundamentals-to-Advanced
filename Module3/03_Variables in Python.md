@@ -112,6 +112,9 @@ So `=` in programming is called the **assignment operator**.
 
 ### 4. Variables and Memory (How to Visualize It)
 
+<img width="2304" height="1728" alt="image" src="https://github.com/user-attachments/assets/d4fbc649-ea6f-45cb-b409-118271119e9c" />
+
+
 Your program runs in **RAM (main memory)**.
 So the data stored in variables also occupies memory.
 
