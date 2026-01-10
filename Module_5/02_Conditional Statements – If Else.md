@@ -67,6 +67,9 @@ This is how programs start behaving intelligently.
 
 ### If Else – Basic Decision Making
 
+<img width="4800" height="2700" alt="image" src="https://github.com/user-attachments/assets/39a3a72d-42b8-4bdc-ac8d-1df47d238e39" />
+
+
 The most basic conditional structure has two parts:
 
 * If block
