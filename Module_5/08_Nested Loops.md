@@ -137,6 +137,9 @@ This will generate combinations like
 
 ## Step by Step Execution
 
+<img width="4800" height="2700" alt="image" src="https://github.com/user-attachments/assets/53ceab47-d272-4992-bc77-16e40984bd4f" />
+
+
 Let us trace it slowly.
 
 ### Step 1
