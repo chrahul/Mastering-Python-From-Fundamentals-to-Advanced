@@ -2,7 +2,7 @@
 
 ---
 
-# Python Course Overview
+# Overview
 
 **Goal: Master Python**
 
